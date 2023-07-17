@@ -247,6 +247,7 @@
 @@||holiday.aquila.pl/min/f=/js/$script
 @@||iccreabanca.it/SiteAssets/js/cookie_js/cookies.dyn.js
 @@||idg.se/idg-consent.min.js$script
+@@||igorslab.de/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js$script,1p
 @@||internazionale.it/assets/js/cookies_gdpr.js?
 @@||iubenda.com^$script,subdocument,xmlhttprequest,domain=105.net|3bmeteo.com|all3dp.com|ansa.it|artribune.com|automoto.it|brutkasten.com|capital.it|cioccolatonippon.it|darkhorizons.com|huffingtonpost.it|ilmessaggero.it|ilsecoloxix.it|lastampa.it|leggo.it|m2o.it|mediaset.it|mee6.xyz|meteo.it|moto.it|mowmag.com|multiplayer.it|quotidiano.net|r101.it|radiomontecarlo.net|rockol.it|saratoga.it|today.it|tomshw.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.repubblica.it|virginradio.it
 @@||kalaydo.de^*/cookie-consent.jsc.js$domain=kalaydo.de
@@ -281,4 +282,3 @@
 @@||vesmir.cz/components/eu_cookie/$script
 @@||vulcangas.com^*/cookie-notice/$script
 @@||zensus2022.de/SiteGlobals/Modules/CookieBanner/*/CookieBanner.json?$~third-party,xmlhttprequest
-@@||igorslab.de/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js$script,1p
